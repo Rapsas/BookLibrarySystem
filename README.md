@@ -1,5 +1,7 @@
 # BookLibrarySystem
 Console application to manage a book library using .NET5
+For this project I used a third-party-software called JSONFlatFile storage for more convenient managing of the JSON folder.
+If you are thinking of making a similar app or any other small prototype project ar an API I highly recommend looking into it. https://github.com/ttu/json-flatfile-datastore 
 # Functionality
 - Type in command 'add' to add a new book to the library. All the information about the books is stored in a JSON file.
 An example data file can be found in the release version.
